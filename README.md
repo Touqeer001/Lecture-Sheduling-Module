@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JsonWebToken" />
       <img src="https://img.shields.io/badge/Context api%20-3bc7bd?style=for-the-badge&logo=Context api&logoColor=white" alt="Context api"/>
+    <img src="https://img.shields.io/badge/Bcrypt%20-3bc7bd?style=for-the-badge&logo=Bcrypt&logoColor=white" alt="Bcrypt"/>
 </p>
   <br />
   
@@ -23,6 +24,16 @@
 
 <br/>
 
+## Glimpses of project 🙈 :
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/73456ae0-53d6-4e53-acda-d67d1cbd891b" alt="login" /></td>
+    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/bca50676-803f-4884-8a98-cebb5e452ce5" alt="register" /></td>
+  </tr>
+ 
+</table>
 
 ## Getting Started
 
