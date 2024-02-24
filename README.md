@@ -19,6 +19,11 @@
    - Add Course for admin
    - Login / Logout
    - Signup
+ ## Routes/Links
+- **Route/Link 1**: Description of the route/link.
+- **Route/Link 2**: Description of the route/link.
+- ...
+
    - 
  ![cover](https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/46bd4032-5a30-439b-b2a5-c1135f4a6eb5)
 
