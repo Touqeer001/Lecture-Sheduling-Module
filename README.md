@@ -19,9 +19,17 @@
    - Add Course for admin
    - Login / Logout
    - Signup
- ## Routes/Links
-- **Route/Link 1**: Description of the route/link.
-- **Route/Link 2**: Description of the route/link.
+ ## Routes
+- **Login 1**: FOr adin login.
+- **Register 2**: admin register.
+- **addcourses 3**: admin can add course.
+- **getcourse 4**: fetch the coure from the databse.
+- **getcoursename/:Id 5**: get course name with the help of id.
+- **addschedule 6**: schedule for lecturek.
+- **getschedule 7**: get routh.
+- - **getuserschedule 8**: 
+- **dateInstructorAvailability 9**: this route check availibility for date.
+- 
 - ...
 
    - 
