@@ -38,19 +38,19 @@ This project was built using React v 17.0.2, Redux v 4.1.1, Bootstrap, CSS, Java
 ### Setup
 
 
-The project repository can be found in [GitHub link](ttps://github.com/Touqeer001/E-Commerce-Using-MERN-Stack.git) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/Touqeer001/Lecture-Sheduling-Module.git) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
 
-# git clone  ttps://github.com/Touqeer001/E-Commerce-Using-MERN-Stack.git
+# git clone  https://github.com/Touqeer001/Lecture-Sheduling-Module.git
 ```
 
 + Open terminal on your workspace with
 
 ```
-cd /home/workspace/Mini-Store
+cd /client
 ```
 
 
