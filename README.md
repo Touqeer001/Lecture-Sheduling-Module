@@ -26,7 +26,7 @@
 
 ## Getting Started
 
-This project was built using React v 17.0.2, Redux v 4.1.1, Material UI, CSS, JavaScript, Rest API, Node JS, Express and MongoDBand jwt token. It is an e-commerce web application and for running on your local environment you should follow these guidelines.
+This project was built using React v 17.0.2, Redux v 4.1.1, Bootstrap, CSS, JavaScript, Rest API, Node JS, Express and MongoDBand jwt token. It is an Online Lecture Sheduling Module web application and for running on your local environment you should follow these guidelines.
 
 
 ### Prerequisites
