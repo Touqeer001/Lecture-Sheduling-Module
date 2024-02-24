@@ -19,6 +19,7 @@
    - Login / Logout
    - Signup
    - 
- ![cover](https://github.com/Touqeer001/E-Commerce-Using-MERN-Stack/assets/126690073/8fca9388-e212-4047-99cb-b4a17afd54c6)
+ ![cover](https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/46bd4032-5a30-439b-b2a5-c1135f4a6eb5)
+
 
 
