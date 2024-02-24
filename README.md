@@ -11,3 +11,14 @@
  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JsonWebToken" />
       <img src="https://img.shields.io/badge/Context api%20-3bc7bd?style=for-the-badge&logo=Context api&logoColor=white" alt="Context api"/>
 </p>
+  <br />
+  
+  ## Screens ( All screens are responsive along with Dark Mode)
+   - Homepage
+   - Add Course for admin
+   - Login / Logout
+   - Signup
+   - 
+ ![cover](https://github.com/Touqeer001/E-Commerce-Using-MERN-Stack/assets/126690073/8fca9388-e212-4047-99cb-b4a17afd54c6)
+
+
