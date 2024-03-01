@@ -44,6 +44,12 @@
   <tr>
     <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/73456ae0-53d6-4e53-acda-d67d1cbd891b" alt="login" /></td>
     <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/bca50676-803f-4884-8a98-cebb5e452ce5" alt="register" /></td>
+    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/af545b33-1642-48bf-9823-a0ee4ef3be73" alt="Forgot Password" /></td>
+    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/576dfd5b-7e7d-490f-9f17-59eb3a7c835d" alt="Admin Dashboard" /></td>
+    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/991f1164-3075-41d6-8ada-d55532741348" alt="Admin Create Job" /></td>
+    <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/a18f20b3-638b-440b-a7e1-99bfd6b1c515" alt="Admin Create Cateory" /></td>
+        <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/5542ba1c-6f63-49c3-8fe6-6b86e2d65296" alt="Admin update category" /></td>
+       <td><img src="https://github.com/Touqeer001/Lecture-Sheduling-Module/assets/126690073/e1889049-d7a4-4fb6-8521-739243a30545" alt="logout butto" /></td>
   </tr>
  
 </table>
